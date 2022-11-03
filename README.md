@@ -22,7 +22,7 @@ git clone https://github.com/mioojo/topazium ~/topazium
 Step 2 - Install
 ```sh
 cd ~/topazium
-./topazium
+./install
 ```
 
 # Usage
